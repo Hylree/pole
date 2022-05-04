@@ -10,7 +10,6 @@ export class PoleController {
       
     @Post()
     public async getEnterprises(@Req() req, @Body() createPoleDto: CreatePoleDto) {
-
         return this.servicePole.getEnterprise(createPoleDto);
     }
 }
