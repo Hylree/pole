@@ -68,4 +68,5 @@ You have a file for the configurations postman in this repo at `doc/pole.postman
 In  postman  and  in  pole  collection: 
 1. Execute  the  request "Auth" for get  the  accessToken  API. 
 2. After  getting  accessToken  you  can  call  the  request  API "pole". 
-This  request  is  limited  by  a  middleware  20  requests  at  the  minute  This  limitation  can  be  configured   in  `user`  table. The  column  `counter`  contains  the  number  token.
+This  request  is  limited  by  a  middleware  20  requests  at  the  minute.
+This  limitation  can  be  configured   in  `user`  table. The  column  `counter`  contains  the  number  token.
