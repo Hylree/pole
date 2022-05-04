@@ -59,7 +59,7 @@ $ npm run start:dev
 
 ## Testing app
 
-Use Postman for testing this app. 
+Intall Postman for testing this app. 
 
 https://www.postman.com/downloads/?utm_source=postman-home
 
