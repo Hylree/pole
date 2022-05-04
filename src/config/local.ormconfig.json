@@ -1,0 +1,24 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "postgres",
+    "database": "pole",
+    "logging": [
+      "error"
+    ],
+    "entities": [
+      "src/api/**/*.entity.ts"
+    ],
+    "migrationsTableName": "migration",
+    "migrations": [
+      "src/shared/typeorm/migrations/*.ts"
+    ],
+    "seeds": [
+      "src/shared/typeorm/seeds/*.seed.ts"
+    ],
+    "cli": {
+      "migrationsDir": "src/shared/typeorm/migrations"
+    }
+  }

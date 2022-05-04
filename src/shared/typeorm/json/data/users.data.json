@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "Admin",
+        "firstName" : "admin1",
+        "password" : "$2a$10$0f.0iL8XrqzWlJ71ez62s.HrIE7I2VpfPxoNHfmoCiNx.wBI0zlIm", 
+        "loginEmail" : "valentin@orange.fr"
+    },
+    {
+        "name" : "Admin",
+        "firstName" : "admin1",
+        "password" : "$2a$10$59nZDgz0znN5C8mJQYKlP.aX.c9VDCGEijNPG6rC3gPkttnpielPO", 
+        "loginEmail" : "benjamin@orange.fr"
+        
+    }
+]
