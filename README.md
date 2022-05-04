@@ -34,7 +34,6 @@ Create connection with login, password and database :
 (Look image to this repo at `doc/bdd_capture.png`)
 
 
-
 ## Installation app
 
 ```bash
@@ -50,17 +49,14 @@ $ npm run typeorm:refresh
 
 
 ```bash
-# development
-$ npm run start
-
 # watch mode
-
 $ npm run start:dev
 ```
 
 
 ## Testing app
-I use postman for testing this app.
+
+Use Postman for testing this app.
 You have a file for the configurations postman in this repo at `doc/pole.postman_collection.json`.
 
 In  postman  and  in  pole  collection: 
