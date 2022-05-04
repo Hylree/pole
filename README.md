@@ -25,7 +25,9 @@ npm i -g @nestjs/cli
 ### BDD intallation
 
 Install in local, postgressql 12.4 (Version used).
+
 https://www.postgresql.org/download/
+
 Create connection with login, password and database :
 
 - **login** : *postgres*
@@ -58,6 +60,7 @@ $ npm run start:dev
 ## Testing app
 
 Use Postman for testing this app. 
+
 https://www.postman.com/downloads/?utm_source=postman-home
 
 You have a file for the configurations postman in this repo at `doc/pole.postman_collection.json`.
